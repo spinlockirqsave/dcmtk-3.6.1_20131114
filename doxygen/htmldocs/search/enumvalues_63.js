@@ -1,0 +1,26 @@
+var searchData=
+[
+  ['cf_5fcomplete',['CF_Complete',['../classDSRTypes.html#a8d9c40d43688a0c6bac522c9e04c41a9a19f5127aa5ca9d78bf27dc5ee00b703b',1,'DSRTypes']]],
+  ['cf_5finvalid',['CF_invalid',['../classDSRTypes.html#a8d9c40d43688a0c6bac522c9e04c41a9ade103bcaa85fbbaf9ec7471878fd79d3',1,'DSRTypes']]],
+  ['cf_5flast',['CF_last',['../classDSRTypes.html#a8d9c40d43688a0c6bac522c9e04c41a9a8a83576846dad79e38b51779b3bdafd1',1,'DSRTypes']]],
+  ['cf_5fpartial',['CF_Partial',['../classDSRTypes.html#a8d9c40d43688a0c6bac522c9e04c41a9ab2d21d182b6ba5c34341a27b589f86f7',1,'DSRTypes']]],
+  ['coc_5fcontinuous',['COC_Continuous',['../classDSRTypes.html#a3837f438c5cb046026a27c4b16b74ae0acce9512eaa7e1aa321a1362bc90adc3a',1,'DSRTypes']]],
+  ['coc_5finvalid',['COC_invalid',['../classDSRTypes.html#a3837f438c5cb046026a27c4b16b74ae0a27bc9bb0b2a13c08e296bedc63a75f11',1,'DSRTypes']]],
+  ['coc_5flast',['COC_last',['../classDSRTypes.html#a3837f438c5cb046026a27c4b16b74ae0aedae2ce828178932806df888f1369343',1,'DSRTypes']]],
+  ['coc_5fseparate',['COC_Separate',['../classDSRTypes.html#a3837f438c5cb046026a27c4b16b74ae0a3b65291c5e0f21936d9d4f3851b4c867',1,'DSRTypes']]],
+  ['cs_5farabic',['CS_Arabic',['../classDSRTypes.html#a22d6fc0b263ca97faa2eb9052fce8054a8a05fe9faa1ffb8cd8590a74d17455c0',1,'DSRTypes']]],
+  ['cs_5fascii',['CS_ASCII',['../classDSRTypes.html#a22d6fc0b263ca97faa2eb9052fce8054ab83c335a131fc536c3fb58606621bc16',1,'DSRTypes']]],
+  ['cs_5fcyrillic',['CS_Cyrillic',['../classDSRTypes.html#a22d6fc0b263ca97faa2eb9052fce8054a198aadcfaf7bbd214ce9355e9395d21d',1,'DSRTypes']]],
+  ['cs_5fgreek',['CS_Greek',['../classDSRTypes.html#a22d6fc0b263ca97faa2eb9052fce8054afa07097325ef6cb2e7e37e199d5a584e',1,'DSRTypes']]],
+  ['cs_5fhebrew',['CS_Hebrew',['../classDSRTypes.html#a22d6fc0b263ca97faa2eb9052fce8054adc1c4eae6832fe2c7e7a8fcf7bad1b51',1,'DSRTypes']]],
+  ['cs_5finvalid',['CS_invalid',['../classDSRTypes.html#a22d6fc0b263ca97faa2eb9052fce8054a0ef9cd0a3e505f8d1b4a95970ac599c3',1,'DSRTypes']]],
+  ['cs_5fjapanese',['CS_Japanese',['../classDSRTypes.html#a22d6fc0b263ca97faa2eb9052fce8054a1baa2cdcef89fe131c7038dca8d7e026',1,'DSRTypes']]],
+  ['cs_5flast',['CS_last',['../classDSRTypes.html#a22d6fc0b263ca97faa2eb9052fce8054a014e80a770189e5ce30059e13818105c',1,'DSRTypes']]],
+  ['cs_5flatin1',['CS_Latin1',['../classDSRTypes.html#a22d6fc0b263ca97faa2eb9052fce8054a1e5a88c981c107c36517ee742e83c54d',1,'DSRTypes']]],
+  ['cs_5flatin2',['CS_Latin2',['../classDSRTypes.html#a22d6fc0b263ca97faa2eb9052fce8054adc327b42ebde6057b132e8e571d3525e',1,'DSRTypes']]],
+  ['cs_5flatin3',['CS_Latin3',['../classDSRTypes.html#a22d6fc0b263ca97faa2eb9052fce8054a21c2b29275a08f0109a4a9da9deca173',1,'DSRTypes']]],
+  ['cs_5flatin4',['CS_Latin4',['../classDSRTypes.html#a22d6fc0b263ca97faa2eb9052fce8054a4eb3ac211d98c0080a3e9f4a347fb442',1,'DSRTypes']]],
+  ['cs_5flatin5',['CS_Latin5',['../classDSRTypes.html#a22d6fc0b263ca97faa2eb9052fce8054aefb25ee0bc12a600f5101aaf9dc4e5c2',1,'DSRTypes']]],
+  ['cs_5fthai',['CS_Thai',['../classDSRTypes.html#a22d6fc0b263ca97faa2eb9052fce8054ae2583c551155b2b4126a03859fc1b2d7',1,'DSRTypes']]],
+  ['cs_5funknown',['CS_unknown',['../classDSRTypes.html#a22d6fc0b263ca97faa2eb9052fce8054a63e7c00f267c4e6baf6cf37663c6dbab',1,'DSRTypes']]]
+];

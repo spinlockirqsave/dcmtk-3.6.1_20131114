@@ -1,0 +1,20 @@
+var searchData=
+[
+  ['gt3_5fellipse',['GT3_Ellipse',['../classDSRTypes.html#a6bee8e8fb8073f2483a9fda65a35ca38a0b89c26dd49ade995b20d4b9b180f100',1,'DSRTypes']]],
+  ['gt3_5fellipsoid',['GT3_Ellipsoid',['../classDSRTypes.html#a6bee8e8fb8073f2483a9fda65a35ca38abe9a69e60682e810254bb89ebdb9ba3d',1,'DSRTypes']]],
+  ['gt3_5finvalid',['GT3_invalid',['../classDSRTypes.html#a6bee8e8fb8073f2483a9fda65a35ca38afe8f2f31662a170713e2dac6df926cc5',1,'DSRTypes']]],
+  ['gt3_5flast',['GT3_last',['../classDSRTypes.html#a6bee8e8fb8073f2483a9fda65a35ca38a8c448fcd47a147958952c65bc28ed45f',1,'DSRTypes']]],
+  ['gt3_5fmultipoint',['GT3_Multipoint',['../classDSRTypes.html#a6bee8e8fb8073f2483a9fda65a35ca38a4ceb8d4ae8eee0889a46724169712061',1,'DSRTypes']]],
+  ['gt3_5fpoint',['GT3_Point',['../classDSRTypes.html#a6bee8e8fb8073f2483a9fda65a35ca38acefe5f23a12853f6e5f0309eb1ebbfb4',1,'DSRTypes']]],
+  ['gt3_5fpolygon',['GT3_Polygon',['../classDSRTypes.html#a6bee8e8fb8073f2483a9fda65a35ca38a0280667dd6163be6765ee7f50a9d6562',1,'DSRTypes']]],
+  ['gt3_5fpolyline',['GT3_Polyline',['../classDSRTypes.html#a6bee8e8fb8073f2483a9fda65a35ca38afbd43d87df7985c5515bf1de4b588819',1,'DSRTypes']]],
+  ['gt3_5funknown',['GT3_unknown',['../classDSRTypes.html#a6bee8e8fb8073f2483a9fda65a35ca38ac0b3a63cd675f1cb97ab192250b47701',1,'DSRTypes']]],
+  ['gt_5fcircle',['GT_Circle',['../classDSRTypes.html#ab40a101e5e8a7ca1d7474f9e1f61f10ea59c3ba98a900ab7101e188bcf4666c66',1,'DSRTypes']]],
+  ['gt_5fellipse',['GT_Ellipse',['../classDSRTypes.html#ab40a101e5e8a7ca1d7474f9e1f61f10ea3087d23c8d885fea4f60e0171f3891ff',1,'DSRTypes']]],
+  ['gt_5finvalid',['GT_invalid',['../classDSRTypes.html#ab40a101e5e8a7ca1d7474f9e1f61f10ea8060fa21e2d78fd2a9cc7e73874e41c6',1,'DSRTypes']]],
+  ['gt_5flast',['GT_last',['../classDSRTypes.html#ab40a101e5e8a7ca1d7474f9e1f61f10ea148c60a65dbe680234bcf010aa4d2670',1,'DSRTypes']]],
+  ['gt_5fmultipoint',['GT_Multipoint',['../classDSRTypes.html#ab40a101e5e8a7ca1d7474f9e1f61f10ea949a351d9b307c0c13d511674923a479',1,'DSRTypes']]],
+  ['gt_5fpoint',['GT_Point',['../classDSRTypes.html#ab40a101e5e8a7ca1d7474f9e1f61f10ea3aebafb3a590da3700c843984f58dcc8',1,'DSRTypes']]],
+  ['gt_5fpolyline',['GT_Polyline',['../classDSRTypes.html#ab40a101e5e8a7ca1d7474f9e1f61f10ea9141c0bd4b4d718407d15e090ca45ff5',1,'DSRTypes']]],
+  ['gt_5funknown',['GT_unknown',['../classDSRTypes.html#ab40a101e5e8a7ca1d7474f9e1f61f10ea33f0ae365dc402b6d332302876d58d34',1,'DSRTypes']]]
+];

@@ -1,0 +1,20 @@
+var searchData=
+[
+  ['jndmax',['JNDMax',['../classDiGSDFunction.html#a77525eb6243a130687f895b069f43eb1',1,'DiGSDFunction']]],
+  ['jndmin',['JNDMin',['../classDiGSDFunction.html#a7afbdbe0a1e5f701509becb5db946d08',1,'DiGSDFunction']]],
+  ['jobs',['jobs',['../classMdfConsoleEngine.html#a12e0c853f631aec0222a4876f50b6d4e',1,'MdfConsoleEngine']]],
+  ['joined',['joined',['../classOFConsole.html#a417e52d098cc1001981b60551ce338cd',1,'OFConsole']]],
+  ['jp2ksupport',['JP2KSupport',['../classDicomDirInterface.html#ac5f992adc1c4b122b8f5c714d663c21c',1,'DicomDirInterface']]],
+  ['jpegfile',['jpegFile',['../classI2DJpegSource.html#a9e3a6d61dc654ecfeba3a0c2cc4d14a9',1,'I2DJpegSource']]],
+  ['jpegprocess12',['JPEGProcess12',['../classDcmXfer.html#abce15108d88835f3fc786c3d9db25c2e',1,'DcmXfer']]],
+  ['jpegprocess8',['JPEGProcess8',['../classDcmXfer.html#a4d383c6a9a4d18c9fd46984bb7ca406a',1,'DcmXfer']]],
+  ['jpegsupport',['JPEGSupport',['../classDicomDirInterface.html#a716adef74e3d8c021f84a3963d57599e',1,'DicomDirInterface']]],
+  ['jpls_5flimit_5f',['jpls_limit_',['../classDJLSCodecParameter.html#a94c30d8b94577c8b2ccd6ffe819fec65',1,'DJLSCodecParameter']]],
+  ['jpls_5foptionsenabled_5f',['jpls_optionsEnabled_',['../classDJLSCodecParameter.html#a3bc6322e37c48545c1c39370668cb70b',1,'DJLSCodecParameter']]],
+  ['jpls_5freset_5f',['jpls_reset_',['../classDJLSCodecParameter.html#a8fb38fda5fb4dee20d9c94e950c666fb',1,'DJLSCodecParameter']]],
+  ['jpls_5ft1_5f',['jpls_t1_',['../classDJLSCodecParameter.html#aa791843b98f1fb2616d20ceba290313d',1,'DJLSCodecParameter']]],
+  ['jpls_5ft2_5f',['jpls_t2_',['../classDJLSCodecParameter.html#a203be04b4d58f0beb1429dcfb313ce88',1,'DJLSCodecParameter']]],
+  ['jpls_5ft3_5f',['jpls_t3_',['../classDJLSCodecParameter.html#a813d6f16ff517b886d9265fde505f35a',1,'DJLSCodecParameter']]],
+  ['jplsinterleavemode_5f',['jplsInterleaveMode_',['../classDJLSCodecParameter.html#a20617d0205123124d2e9d67d349eb2d2',1,'DJLSCodecParameter']]],
+  ['jsampbuffer',['jsampBuffer',['../classDJDecompressIJG12Bit.html#a43405eb932c630bd9fa16a5a791edeca',1,'DJDecompressIJG12Bit::jsampBuffer()'],['../classDJDecompressIJG16Bit.html#ac1e098f47cb1654e47c09d2c87178204',1,'DJDecompressIJG16Bit::jsampBuffer()'],['../classDJDecompressIJG8Bit.html#a5abea7048a002b2c6f970206b15df872',1,'DJDecompressIJG8Bit::jsampBuffer()']]]
+];
